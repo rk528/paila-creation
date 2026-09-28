@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Add once the production domain is confirmed (see README.md):
+# Sitemap: https://pailacreation.com/sitemap.xml

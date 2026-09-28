@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copy to the site root only after https://pailacreation.com/ is confirmed as the production domain. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://pailacreation.com/</loc></url>
+  <url><loc>https://pailacreation.com/services.html</loc></url>
+  <url><loc>https://pailacreation.com/about.html</loc></url>
+  <url><loc>https://pailacreation.com/contact.html</loc></url>
+</urlset>
